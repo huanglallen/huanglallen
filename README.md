@@ -1,10 +1,4 @@
-### Welcome to my Github! 😄
-
 <!--
-**huanglallen/huanglallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,25 +8,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- GREETINGS -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ I am Allen Huang, a Software Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</h1>
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+
+<!-- Connections -->
+<h1 align="left">Connect with me</h1>
+<p align="left">
+<a href="https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_" height="30" width="40" />
+<a href="https://www.linkedin.com/in/huanglallen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/" height="30" width="40" />
+</p>
+
+<h1 align="left">About me</h1>
+
 ```js
-In my last year of college, I decided to take an introductory computer science class. It was strange
- since I was my goal was to obtain a bachelor's in Political Science, but I figured it might be interesting
- since I liked playing video games. Surprisingly, I had a lot of fun coding and building. I was only writing
-basic HTML and CSS, but I had more fun in that class than any other upper-division course I had taken. After
-graduation, I originally planned to work before attending law school. However, the competition for
-low-level law firm positions was tough. Law firms offered little-to-no pay for positions that required a
-heavy workload and based on my past internship experience, I found that this wasn't really the path I wanted to
-pursue. A friend suggested I try a software engineer boot camp. Remembering my positive experience in that intro
-class, so I decided to explore coding through free online materials.
-
-As I coded more, I found myself having a lot of fun. I found it really satisfying to solve coding problems by
-implementing coding techniques and solutions. This concluded that becoming a software engineer was what I wanted
-to be. So, I applied for and completed App Academy's intensive 6-month software engineering course, which allowed
-me to learn coding languages, frameworks, and technologies required for a full-stack application. In my time there,
-I was able to complete two solo projects and contributed to a group project.
-
-Today, I'm fully prepared to continue my journey as a dedicated and enthusiastic software engineer. I thrive on
-challenges and am passionate about leveraging technology to create innovative solutions. If you're looking for someone
-who brings dedication, adaptability, and a diverse perspective to your team, I'm here and eager to contribute.
-Let's work together and build something amazing!
+currently still editing
 ```
