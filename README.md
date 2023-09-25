@@ -23,7 +23,7 @@
 <h1 align="left">Connect with me</h1>
 <p align="left">
 <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_" height="30" width="40" />
-<a href="https://www.linkedin.com/in/huanglallen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/" height="30" width="40" />
+<a href="https://www.linkedin.com/in/huanglallen" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/" height="30" width="40" />
 </p>
 
 <h1 align="left">About me</h1>
